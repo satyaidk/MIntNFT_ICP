@@ -1,0 +1,17 @@
+{
+    "canisters": {
+      "MintNFT_ICP": {
+        "main": "src/main.rs",
+        "type": "motoko",
+        "frontend": {
+          "entrypoint": "index.html"
+        }
+      }
+    },
+    "defaults": {
+      "build": {
+        "packtool": "@dfinity/candid"
+      }
+    }
+  }
+  
