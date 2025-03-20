@@ -1,4 +1,4 @@
-# MIntNFT_ICP
+# MIntNFTICP
 
 
 To run the frontend of this project, execute the following commands:
